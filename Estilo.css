@@ -1,0 +1,45 @@
+ body
+
+ {
+	
+  background: gray; 
+}
+/*
+#pokemonbackground
+
+
+{	
+	margin-top: 12px;
+	background-image: url(wartlback.png);
+	background-repeat: no-repeat;
+	background-size: 500px 400px;
+
+	border: 1px solid red;
+	width: 500px;
+	height: 400px;
+	
+} 
+*/
+#Wartortle
+{
+	width: 500px;
+	height: 400px;
+}
+
+.container
+{
+    background: url(csg-533cb974a39f3.png) no-repeat top left;
+}
+
+
+
+.Der1{ background-position: 0 0; width: 55px; height: 70px; } 
+.Der2{ background-position: 0 -120px; width: 55px; height: 70px; } 
+.Der3{ background-position: 0 -240px; width: 55px; height: 70px; } 
+.Der4{ background-position: 0 -360px; width: 55px; height: 70px; } 
+.Izq1{ background-position: 0 -480px; width: 55px; height: 70px; } 
+.Izq2{ background-position: 0 -600px; width: 55px; height: 70px; } 
+.Izq3{ background-position: 0 -720px; width: 55px; height: 70px; } 
+.Izq4{ background-position: 0 -840px; width: 55px; height: 70px; } 
+
+
