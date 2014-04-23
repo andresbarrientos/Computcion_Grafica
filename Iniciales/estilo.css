@@ -1,0 +1,16 @@
+
+button
+{
+	width: 250px;
+	height: 35px;
+	font-size: 17px;
+	font-family: sans-serif;
+	color: black;
+	background-color: white;
+}
+
+body
+{
+	background-color: #000063;
+}
+
